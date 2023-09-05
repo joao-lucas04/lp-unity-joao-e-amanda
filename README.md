@@ -1,4 +1,4 @@
-<h1 align= "center"> Documentação </h1>
+## <h1 align= "center"> Documentação </h1>
 Nome do Caso de Uso:
 Ator Principal: Player
 Ator Secundário: PC
