@@ -1,15 +1,6 @@
 <h1 align= "center"> Documentação </h1>
-<strong><h3>Nome do Caso de Uso:</h3></strong> 
-<br>
-<strong><h3>Ator Principal:</h3></strong> Player
-<br>
-Ator Secundário: PC
-<br>
-Resumo: Jogador deve movimentar o personagem e percorrer o cenário, 
-superando de todos os desafios e obstáculos, e deve acabar coletando 
-o Relógio no fim para acabar vencendo o jogo.
-<br>
-Pré-condição: Jogo deve ser aberto.
+## Nome do Caso de Uso:
+Jogo da Forca
 
-<h1>Ações do Autor</h1> 
-<h1 aling="right">Ações do Sistema</h1>
+## Ator Principal:
+Player
