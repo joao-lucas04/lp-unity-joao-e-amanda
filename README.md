@@ -1,7 +1,7 @@
 <h1 align= "center"> Documentação </h1>
 
-### Nome do Caso de Uso:
+#### Nome do Caso de Uso:
 Jogo da Forca
 
-### Ator Principal:
+#### Ator Principal:
 Player
