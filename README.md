@@ -24,4 +24,4 @@ Jogo de ser inicializado
 ### <h1 align="right">Ações do Autor</h1> 
 1- Player Inicia Jogo
 <br>
-###### <h1 align="right">2- Sortear uma palavra para encaminhar o jogo</h1>
+### <h1 align="right">2- Sortear uma palavra para encaminhar o jogo</h1>
