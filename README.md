@@ -1,7 +1,7 @@
 ## <h1 align= "center"> Documentação </h1>
 <strong><h3>Nome do Caso de Uso:</h3></strong>
 <br>
-Ator Principal: 
+<strong><h3>Ator Principal:</h3></strong> Player 
 Player
 <br>
 Ator Secundário: PC
