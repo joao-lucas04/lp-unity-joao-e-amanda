@@ -22,6 +22,7 @@ Jogo de ser inicializado
 <br>
 ### <h1>Ações do Autor</h1>
 ### <h1 align="right">Ações do Autor</h1> 
-1- Player Inicia Jogo
-<br>
-<h4 align="right">2- Sortear uma palavra para encaminhar o jogo</h4>
+<h4>1- Player Inicia Jogo</h4>
+<h4>2- Mover Personagem</h4>
+<h4 align="right">3- Mover Tanque</h4>
+<h4 align="right">4- Atingir Personagem</h4>
