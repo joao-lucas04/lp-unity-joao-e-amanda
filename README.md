@@ -23,6 +23,6 @@ Jogo de ser inicializado
 ### <h1>Ações do Autor</h1>
 ### <h1 align="right">Ações do Autor</h1> 
 <h4>1- Player Inicia Jogo</h4>
-<h4>2- Mover Personagem</h4>
+<h4>2- Player deve controlar a movimentação do Personagem</h4>
 <h4 align="right">3- Mover Tanque</h4>
 <h4 align="right">4- Atingir Personagem</h4>
