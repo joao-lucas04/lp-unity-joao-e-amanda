@@ -1,7 +1,10 @@
 ## <h1 align= "center"> Documentação </h1>
 
+### Caso de Uso Geral:
+Mover Personagem
+
 ### Nome do Caso de Uso:
-Jogo da Forca
+Jogo do Unity
 
 ### Ator Principal:
 Player
