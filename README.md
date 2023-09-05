@@ -1,5 +1,5 @@
 <h1 align= "center"> Documentação </h1>
-## Nome do Caso de Uso:
+Nome do Caso de Uso:
 Ator Principal: Player
 Ator Secundário: PC
 Resumo: Jogador deve movimentar o personagem e percorrer o cenário, 
