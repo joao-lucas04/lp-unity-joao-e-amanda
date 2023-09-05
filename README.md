@@ -1,4 +1,4 @@
-## <h1 align= "center"> Documentação </h1>
+<h1 align= "center"> Documentação </h1>
 <strong><h3>Nome do Caso de Uso:</h3></strong>
 <br>
 <strong><h3>Ator Principal:</h3></strong> <h3>Player</h3>
