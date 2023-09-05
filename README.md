@@ -19,6 +19,9 @@ vencendo o jogo.
 
 ### Pré-condição: 
 Jogo de ser inicializado
-<br><br>
+<br>
 ### <h1>Ações do Autor</h1>
-### <h1 align="right">Ações do Autor</h1>  
+### <h1 align="right">Ações do Autor</h1> 
+1- Player Inicia Jogo
+<br>
+#### <h1 align="right">2- Sortear uma palavra para encaminhar o jogo</h1>
