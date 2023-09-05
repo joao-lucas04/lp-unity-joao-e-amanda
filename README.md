@@ -5,3 +5,9 @@ Jogo da Forca
 
 ### Ator Principal:
 Player
+
+### Ator Secundário:
+PC
+
+### Resumo:
+Jogo 
