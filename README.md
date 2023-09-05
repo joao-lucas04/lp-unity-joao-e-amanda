@@ -11,4 +11,5 @@ o Relógio no fim para acabar vencendo o jogo.
 <br>
 Pré-condição: Jogo deve ser aberto.
 
-<h1>Ações do Autor</h1> <h1 aling="right">Ações do Sistema</h1>
+<h1>Ações do Autor</h1> 
+<h1 aling="right">Ações do Sistema</h1>
