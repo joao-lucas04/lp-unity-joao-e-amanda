@@ -20,4 +20,4 @@ vencendo o jogo.
 ### Pré-condição: 
 Jogo de ser inicializado
 
-### Ações do Autor                                                    ### Ações do Sistema
+### <h1 align="right">Ações do Autor</h1>
