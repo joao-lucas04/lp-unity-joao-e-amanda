@@ -16,3 +16,6 @@ PC
 Objetivo principal é mover o personagem até o final do jogo, evitando todos os obstáculos
 e desafios durante o trajeto, até coletar o Relógio presente no fim, ao coletar o jogador acaba
 vencendo o jogo.
+
+### Pré-condição: 
+Jogo de ser inicializado
