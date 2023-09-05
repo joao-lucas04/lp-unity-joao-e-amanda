@@ -20,5 +20,5 @@ vencendo o jogo.
 ### Pré-condição: 
 Jogo de ser inicializado
 
-### Ações do Autor 
+### <h1>Ações do Autor</h1>
 ### <h1 align="right">Ações do Autor</h1>  
