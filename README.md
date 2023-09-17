@@ -26,7 +26,7 @@ Jogo possui 2 fases, a primeira tendo que correr de um tanque de guerra desviand
 <h2>Instruções de Jogo:<h2> 
 <p>
       
-- [Pressione os botões W,S,A,D para mover o personagem]()
+- [Pressione as teclas W,S,A,D para mover o personagem]()
       
 - [Pressione a tecla Q para olhar para trás]()
 
