@@ -1,5 +1,4 @@
-# Jogo No Canvas
-<h1>Atividade de Unity</h1>
+# Jogo No Unity
 
 <h2>Autores:</h2> Amanda e João Lucas
 
