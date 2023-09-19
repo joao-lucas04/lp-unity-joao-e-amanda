@@ -20,8 +20,10 @@ O jogo retrata esse temas de forma simplificada e tenta fazer o usuário refleti
 Jogo possui 2 fases, a primeira tendo que correr de um tanque de guerra desviando de alguns obstáculos até chegar a uma porta. E a segunda, escalar a torre de relógio até o topo, saltando entre plataformas enquanto cai destroços de cima da torre, dificultando a subida, quando o topo é alcaçado, player irá coletar o relógio para acabar o jogo, como prêmio por ter passado pelo jogo.
 </p>
 
-   <img src="img/foto.png">
-   <img src="img/foto2.png">
+   <img src="img/foto1_cena1.png">
+   <img src="img/foto2_cena1.png">
+   <img src="img/foto1_cena2.png">
+   <img src="img/foto2_cena2.png">
    
    [--> CLIQUE AQUI para ver o vídeo detalhado do jogo <--](https://youtu.be/u_veI-S-I_0)
 
