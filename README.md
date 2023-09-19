@@ -24,6 +24,8 @@ Jogo possui 2 fases, a primeira tendo que correr de um tanque de guerra desviand
    <img src="img/foto2.png">
    
    [--> CLIQUE AQUI para ver o vídeo detalhado do jogo <--](https://youtu.be/mMj8ICaj_qg)
+
+   [--> CLIQUE AQUI para abrir o jogo no Drive <--](https://youtu.be/mMj8ICaj_qg)
    
 <h2>Instruções de Jogo:<h2> 
 <p>
