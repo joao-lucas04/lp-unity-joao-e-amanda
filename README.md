@@ -22,6 +22,9 @@ Jogo possui 2 fases, a primeira tendo que correr de um tanque de guerra desviand
 
    <img src="img/foto.png">
    <img src="img/foto2.png">
+   
+   - [--> CLIQUE AQUI para ver o vídeo detalhado do jogo <--]()
+   
 
 <h2>Instruções de Jogo:<h2> 
 <p>
